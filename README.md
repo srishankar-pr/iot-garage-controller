@@ -1,15 +1,15 @@
 # iot-garage-controller
+
 An IoT-enabled garage control system using ESP32, Blynk, and common components like a servo, LED, buzzer, and ultrasonic sensor. Control your garage and monitor car presence remotely via a mobile app.
----
 Below are key images illustrating the system, setup, and app interface. 
 
 ## Project Screenshots
 
-| ![Image 1](blynk_demo.jpg) | ![Image 2](circuit diagram.jpg) | ![Image 3](setup.jpg) |
+| ![Image 1](blynk_demo.jpg) | ![Image 2](ciruit diagram.jpg | ![Image 3](setup.jpg) |
 |:-----------------------------:|:-----------------------------:|:-----------------------------:|
 | **Blynk App Interface**       | **Circuit Diagram**           | **Hardware Setup**            |
 
-| ![Image 4](lights.jpg) | ![Image 5](servo.jpg) | ![Image 6](car_status.jpg) |
+| ![Image 4](lights .jpg) | ![Image 5](servo.jpg) | ![Image 6](car_status.jpg) |
 |:-----------------------------:|:-----------------------------:|:-----------------------------:|
 | **Garage lights**     | **Garage Door**       | **Car status**     |
 

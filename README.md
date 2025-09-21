@@ -5,11 +5,11 @@ Below are key images illustrating the system, setup, and app interface.
 
 ## Project Screenshots
 
-| ![Image 1](blynk_demo.jpg) | ![Image 2](ciruit diagram.jpg | ![Image 3](setup.jpg) |
+| ![Image 1](blynk_demo.jpg) | ![Image 2](img1.jpg) | ![Image 3](setup.jpg) |
 |:-----------------------------:|:-----------------------------:|:-----------------------------:|
 | **Blynk App Interface**       | **Circuit Diagram**           | **Hardware Setup**            |
 
-| ![Image 4](lights .jpg) | ![Image 5](servo.jpg) | ![Image 6](car_status.jpg) |
+| ![Image 4](img2.jpg) | ![Image 5](servo.jpg) | ![Image 6](img3.jpg) |
 |:-----------------------------:|:-----------------------------:|:-----------------------------:|
 | **Garage lights**     | **Garage Door**       | **Car status**     |
 
